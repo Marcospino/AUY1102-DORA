@@ -1,1 +1,3 @@
 run_id,sha,commit_at,deployed_at,failed,recovery_of,run_url
+45722657505,ff7174f367262cb4e69bb37a70bb6e6b853e8b0f,2026-11-25T20:36:13-03:00,2026-11-25T23:36:48+00:00,0,,https://github.com/Marcospino/AUY1102-DORA/actions/runs/45722657505
+45723470450,a4ccea4b742cc13ae8cc2691b8d1510ecc638fe6,2026-11-25T20:42:47-03:00,2026-11-25T23:43:22+00:00,0,,https://github.com/Marcospino/AUY1102-DORA/actions/runs/45723470450
